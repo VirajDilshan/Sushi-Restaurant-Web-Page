@@ -1,0 +1,1 @@
+This is a simple web page designed for a restaurant using simple html5 and css
